@@ -91,6 +91,7 @@ http://localhost:3000/device/1234
 - **📋 Service Management** - Streamlined service call creation and tracking
 - **📱 Field Technician Tools** - Mobile-optimized interface for on-site work
 - **🔐 Secure Authentication** - OTP-based verification for data protection
+- **🌐 Bilingual Support** - Full English and Hebrew language support with RTL/LTR layout switching
 - **🚨 Automated Issue Detection** - Proactively opens bug reports for device malfunctions without waiting for customer calls
 
 
